@@ -6,7 +6,9 @@
 - 👯 I’m looking to collaborate on different project ( retail, health, travel, logistic, ecologic )
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kevin-grondin/)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
+
+[<img align="left" alt="AngularJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" style="padding-right:10px;" />][youtubeplaylist]
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
