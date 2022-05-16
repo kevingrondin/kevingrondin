@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning React, React-Query, Next, Tailwind, NodeJs, .Net 6, React-Native, MongoDB
 - 👯 I’m looking to collaborate on different project ( retail, health, travel, logistic, ecologic )
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kevin-grondin/)
+- 👨🏻‍💻 My software i use [software](https://winstall.app/packs/_C1sdLo7m)
 
 ### Languages and Tools
 
