@@ -11,7 +11,6 @@
 
 <p align="left">
   <a href="https://angularjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJs" width="40" height="40"/> </a>
-  <a href="https://microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
   <a href="https://debian.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" alt="Debian" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Electron.svg" alt="Electron" width="40" height="40"/> </a>
