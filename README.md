@@ -1,7 +1,6 @@
 <h1 align="center">Bienvenue 👋, sur mon github</h1>
-<h3 align="center">Je ne publie uniquement que des petits projets, ou tuto suffisamment intéressants pour des curieux</h3>
+<h3 align="center">Petits projets, ou tuto suffisamment intéressants pour des curieux</h3>
 
-- 🔭 Je suis actuellement en CDI
 - 🌱 Au quotidient j'utilise React/Next, React-Query/Apollo, Tailwind, NodeJs, React-Native, MongoDB/Firebase/NocoDb
 - 👯 J'ai eu la chance de mettre mes compétences dans différent domaine comme la santé, la logistique, la vente, tourisme, et ecologie
 - 📫 Me trouver: [linkedin](https://www.linkedin.com/in/kevin-grondin/)
