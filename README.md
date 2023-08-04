@@ -1,10 +1,10 @@
 <h1 align="center">Bienvenue 👋, sur mon github</h1>
-<h3 align="center">Petits projets, ou tuto suffisamment intéressants pour des curieux</h3>
+<h3 align="center">Je scale vos entreprises et équipes, demandez votre étude personnalisée</h3>
 
-- 🌱 Au quotidient j'utilise React/Next, React-Query/Apollo, Tailwind, NodeJs, React-Native, MongoDB/Firebase/NocoDb
-- 👯 J'ai eu la chance de mettre mes compétences dans différent domaine comme la santé, la logistique, la vente, tourisme, et ecologie
+- 🌱 Mon expertise : Developpeur JS et Devops
+- 👯 J'ai eu la chance de mettre mes compétences dans différent domaine comme le retail, la logistique, la vente
 - 📫 Me trouver: [linkedin](https://www.linkedin.com/in/kevin-grondin/)
-- 👨🏻‍💻 Sur Windows [software](https://winstall.app/packs/_C1sdLo7m) mais je suis Mac depuis plusieur années.
+- 👨🏻‍💻 Mes outils Windows [software](https://winstall.app/packs/_C1sdLo7m) mais je travail exclusivement sur Mac depuis plusieur années.
 
 ### Mes outils
 
