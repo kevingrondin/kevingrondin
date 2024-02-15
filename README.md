@@ -2,7 +2,7 @@
 <h3 align="center">Je scale vos entreprises et équipes, demandez votre étude personnalisée</h3>
 
 - 🌱 Mon expertise : Developpeur JS et Devops
-- 👯 J'ai eu la chance de mettre mes compétences dans différent domaine comme le retail, la logistique, la vente
+- 👯 J'ai eu la chance de mettre mes compétences dans différent domaine comme le retail, la logistique, l'energie
 - 📫 Me trouver: [linkedin](https://www.linkedin.com/in/kevin-grondin/)
 - 👨🏻‍💻 Mes outils Windows [software](https://winstall.app/packs/_C1sdLo7m) mais je travail exclusivement sur Mac depuis plusieur années.
 
