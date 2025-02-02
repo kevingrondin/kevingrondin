@@ -1,15 +1,15 @@
 <h1 align="center">Bienvenue 👋, sur mon github</h1>
 <h3 align="center">Je scale vos entreprises et équipes, demandez votre étude personnalisée</h3>
 
-- 🌱 Mon expertise : Developpeur JS et Devops
+- 🌱 Mon expertise : Developpeur FullStack JS, Devops et CTO
 - 👯 J'ai eu la chance de mettre mes compétences dans différent domaine comme le retail, la logistique, l'energie
 - 📫 Me trouver: [linkedin](https://www.linkedin.com/in/kevin-grondin/)
-- 👨🏻‍💻 Mes outils Windows [software](https://winstall.app/packs/_C1sdLo7m) mais je travail exclusivement sur Mac depuis plusieur années.
 
 ### Mes outils
 
 <p align="left">
   <a href="https://angularjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJs" width="40" height="40"/> </a>
+  <a href="https://docs.ansible.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" width="40" height="40"/> </a>
   <a href="https://debian.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" alt="Debian" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Electron.svg" alt="Electron" width="40" height="40"/> </a>
@@ -26,7 +26,8 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://v2.tauri.app/fr" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original-wordmark.svg" alt="tauri" width="40" height="40"/> </a>
 </p>
 
 ### ⭐ Mes stats
